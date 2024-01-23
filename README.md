@@ -12,11 +12,11 @@ A continuación se muestra el resultado generado por el código Go proporcionado
 
 NOTA: Tenga en cuenta que el resultado específico puede variar según la ejecución de la rutina de ejecución. Este es un ejemplo básico y, en un escenario del mundo real, es posible que desee gestionar la terminación del actor, la supervisión y otros aspectos del modelo de actor. Bibliotecas como github.com/AsynkronIT/protoactor-go proporcionan implementaciones de modelos de actores más avanzadas en Go Lang.
 
-Mensaje de procesamiento del actor 3: 5
-Mensaje de procesamiento del actor 8: 2
-Mensaje de procesamiento del actor 1: 3
-Mensaje de procesamiento del actor 2: 1
-Mensaje de procesamiento del actor 3: 4
+- Mensaje de procesamiento del actor 3: 5
+- Mensaje de procesamiento del actor 8: 2
+- Mensaje de procesamiento del actor 1: 3
+- Mensaje de procesamiento del actor 2: 1
+- Mensaje de procesamiento del actor 3: 4
 
 Exploramos cómo PayPal manejó miles de millones de transacciones diarias utilizando solo ocho máquinas virtuales. Comenzamos con los inicios de PayPal y los desafíos que enfrentaron a medida que su popularidad se disparaba. Para hacer frente al aumento de la demanda, invirtieron en nuevo hardware, pero pronto alcanzaron un millón de transacciones por día. ¿La solución? Ampliaron la escala a más de 1000 máquinas virtuales. Sin embargo, esto trajo nuevos problemas como problemas de red y altos costos.
 
